@@ -1,0 +1,10 @@
+{
+  "viewportWidth": 1536,
+  "viewportHeight": 960,
+  "video": false,
+  "screenshotOnRunFailure": false,
+  "component": {
+    "componentFolder": "src",
+    "testFiles": "**/*spec.{js,jsx}"
+  }
+}
